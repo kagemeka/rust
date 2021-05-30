@@ -1,2 +1,2 @@
 # rs
-rust package
+rust crate
